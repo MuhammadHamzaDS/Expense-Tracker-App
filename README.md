@@ -15,13 +15,6 @@ This project was created as part of a semester project (50 screens target 🎯).
 
 ---
 
-## 📸 Screenshots
-| Login Page | Signup Page | Dashboard |
-|------------|-------------|-----------|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) | ![Dashboard](screenshots/dashboard.png) |
-
----
-
 ## 🛠️ Tech Stack
 - **Flutter** (Frontend)
 - **Dart**
