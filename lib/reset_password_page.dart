@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 class ResetPasswordPage extends StatelessWidget {
   final TextEditingController emailController = TextEditingController();
 
+  ResetPasswordPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
